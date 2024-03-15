@@ -1,1 +1,1 @@
-Esse é o meu primeiro projeto como desenvolvedor, que foi feito com o suporte da instituição Alura. Fiquei muito feliz de concluí-lo e me apaixonei por essa área. Tenho certeza de que irei continuar estudando cada vez mais para me tornar um desenvolvedor no futuro. O código do projeto e de cada desafio proposto durante o curso foi anexado para consulta
+Meus projetos realizados com a utilização de JavaScript
